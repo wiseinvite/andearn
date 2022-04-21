@@ -1,2 +1,2 @@
-# andearn
+# wiseinviteandearn
 Wise Invite and Earn
